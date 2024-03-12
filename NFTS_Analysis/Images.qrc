@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/ascOrder.png</file>
+        <file>Images/changeName.png</file>
+        <file>Images/closeWindows.png</file>
+        <file>Images/darkSpot.png</file>
+        <file>Images/desOrder.png</file>
+        <file>Images/dui_hao.png</file>
+        <file>Images/exit.png</file>
+        <file>Images/export.png</file>
+        <file>Images/extend.png</file>
+        <file>Images/fileRecover.png</file>
+        <file>Images/filter.png</file>
+        <file>Images/highFind.png</file>
+        <file>Images/newWindow.png</file>
+        <file>Images/option.png</file>
+        <file>Images/preview.png</file>
+        <file>Images/regExp.png</file>
+        <file>Images/sort.png</file>
+        <file>Images/setting.png</file>
+        <file>Images/allExtend.png</file>
+        <file>Images/CaseInsensitive.png</file>
+        <file>Images/CaseSensitive.png</file>
+        <file>Images/complete.png</file>
+        <file>Images/complete_dis.png</file>
+        <file>Images/extend_dis.png</file>
+        <file>Images/regExp_dis.png</file>
+        <file>Images/log.png</file>
+        <file>Images/historyInfo.png</file>
+        <file>Images/realMonitor.png</file>
+        <file>Images/quickRun.png</file>
+        <file>Images/runLog_close.png</file>
+        <file>Images/runLog_open.png</file>
+        <file>Images/usnLog_close.png</file>
+        <file>Images/usnLog_open.png</file>
+        <file>Images/monitorList.png</file>
+        <file>Images/commandLine.png</file>
+    </qresource>
+</RCC>
